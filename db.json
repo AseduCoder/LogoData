@@ -1,0 +1,76 @@
+{
+  "Logos": [
+    {
+      "img": "../imgs/adidass.png",
+      "right": "bx bx-right-arrow-alt",
+      "Name": "Adidas",
+      "id": 1
+    },
+    {
+      "img": "../imgs/nike.png",
+      "right": "bx bx-right-arrow-alt",
+      "Name": "Nike",
+      "id": 2
+    },
+    {
+      "img": "../imgs/adidass.png",
+      "right": "bx bx-right-arrow-alt",
+      "Name": "Adidas",
+      "id": 3
+    },
+    {
+      "img": "../imgs/nike.png",
+      "right": "bx bx-right-arrow-alt",
+      "Name": "Nike",
+      "id": 4
+    },
+    {
+      "img": "../imgs/adidass.png",
+      "right": "bx bx-right-arrow-alt",
+      "Name": "Adidas",
+      "id": 5
+    },
+    {
+      "img": "../imgs/nike.png",
+      "right": "bx bx-right-arrow-alt",
+      "Name": "Nike",
+      "id": 6
+    },
+    {
+      "img": "../imgs/adidass.png",
+      "right": "bx bx-right-arrow-alt",
+      "Name": "Nike",
+      "id": 7
+    },
+    {
+      "img": "../imgs/nike.png",
+      "right": "bx bx-right-arrow-alt",
+      "Name": "Adidas",
+      "id": 8
+    },
+    {
+      "img": "../imgs/adidass.png",
+      "right": "bx bx-right-arrow-alt",
+      "Name": "Nike",
+      "id": 9
+    },
+    {
+      "img": "../imgs/nike.png",
+      "right": "bx bx-right-arrow-alt",
+      "Name": "Adidas",
+      "id": 10
+    },
+    {
+      "img": "../imgs/adidass.png",
+      "right": "bx bx-right-arrow-alt",
+      "Name": "Nike",
+      "id": 11
+    },
+    {
+      "img": "../imgs/nike.png",
+      "right": "bx bx-right-arrow-alt",
+      "Name": "Adidas",
+      "id": 12
+    }
+  ]
+}
